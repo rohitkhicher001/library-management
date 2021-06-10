@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.signupform {
+  align-items: center;
+  /* text-align: center; */
+  min-width: 20rem;
+}
